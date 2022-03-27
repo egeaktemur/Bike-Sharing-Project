@@ -5,6 +5,6 @@ In this project, we tried to figure out how number of casual and registered bike
 Team Members:
 Görkem Yar, https://github.com/Atlas-5
 Sueda Şeker, https://github.com/suedaseker
-Ege Aktemur,
+Ege Aktemur, https://github.com/egeaktemur
 Tacettin Emre Bök,
 Kaan Bilgili
